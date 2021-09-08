@@ -1,0 +1,7 @@
+{
+  "name": "solid-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ricardo da Silva Girardi <girardiricardo@outlook.com>",
+  "license": "MIT"
+}
